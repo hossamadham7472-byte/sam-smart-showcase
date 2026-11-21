@@ -1,5 +1,13 @@
 # SAM SMART — Financial Reporting Validation & AI Governance Framework
 
+**Financial Reporting Validation | Reconciliation | AI Governance | Power BI | Excel Automation | Accounting**
+
+SAM SMART is a customisable smart-validation framework that combines accounting expertise, automation, and AI-governance principles.
+
+It helps organisations strengthen validation, traceability, review, and approval controls across financial reporting, reconciliations, KPIs, and AI-assisted reporting workflows.
+
+نظام فحوصات ذكي قابل للتخصيص للتحقق من البيانات والمطابقات ومراجعة مخرجات الذكاء الاصطناعي وحوكمة التقارير المالية.
+
 > **AI auditing AI — with final approval by a human.**
 > **ذكاء اصطناعي يدقق ذكاءً اصطناعيًا — والاعتماد النهائي لإنسان.**
 
@@ -48,6 +56,18 @@ Proposed Structure  →  Audit  →  Approval
 
 **Sectors | القطاعات:** travel & tourism, aviation, real estate, healthcare.
 السياحة والسفر، الطيران، العقارات، القطاع الطبي.
+
+---
+
+## Who it's for | لمن صُمم
+
+SAM SMART supports financial-reporting validation, bank reconciliation, e-commerce reconciliation, KPI testing, variance analysis, audit-trail design, AI-output review, and AI-governance practices.
+
+It is designed for finance teams, CFOs, accounting firms, travel and tourism companies, e-commerce businesses, and estate administration offices.
+
+يدعم SAM SMART التحقق من التقارير المالية، والمطابقات البنكية، ومطابقات التجارة الإلكترونية، واختبار مؤشرات الأداء، وتحليل الفروقات، وتصميم مسارات التدقيق، ومراجعة مخرجات الذكاء الاصطناعي، وممارسات حوكمة الذكاء الاصطناعي.
+
+تم تصميمه للإدارات المالية ورؤساء القطاعات المالية ومكاتب المحاسبة والمراجعة وشركات السفر والسياحة وشركات التجارة الإلكترونية ومكاتب إدارة التركات والأصول.
 
 ---
 
