@@ -68,6 +68,10 @@ Developed by **Hossam Alsayed (حسام السيد)** — CPA and financial cons
 This repository is a public showcase only. The full SAM SMART code, validation rules, correction dictionaries and client materials are proprietary and are not published here.
 هذا المستودع للعرض فقط. الكود الكامل وقواعد الفحص وقواميس التصحيح ومواد العملاء ملكية خاصة وغير منشورة هنا.
 
+## Contact | للتواصل
+
+- LinkedIn: [Hossam Elsayed](https://www.linkedin.com/in/hossam-elsayed-81b477439/)
+
 ---
 
 © 2026 Hossam Alsayed. All rights reserved. See [LICENSE](LICENSE) and [NOTICE](NOTICE).
