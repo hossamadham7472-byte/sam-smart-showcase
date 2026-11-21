@@ -90,7 +90,7 @@ This repository is a public showcase only. The full SAM SMART code, validation r
 
 ## Contact | للتواصل
 
-- LinkedIn: [Hossam Elsayed](https://www.linkedin.com/in/hossam-elsayed-81b477439/)
+- LinkedIn: [Hossam Alsayed](https://www.linkedin.com/in/hossam-alsayed-81b477439/)
 
 ---
 
